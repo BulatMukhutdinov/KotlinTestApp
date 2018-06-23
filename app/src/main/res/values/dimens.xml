@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--standard sizes-->
+    <dimen name="size_half">4dp</dimen>
+    <dimen name="size1x">8dp</dimen>
+    <dimen name="size2x">16dp</dimen>
+    <dimen name="size20x">160dp</dimen>
+
+    <!--card preview-->
+    <dimen name="card_preview_elevation">@dimen/size_half</dimen>
+    <dimen name="card_preview_height">@dimen/size20x</dimen>
+    <dimen name="card_preview_margin">@dimen/size_half</dimen>
+
+    <!--error text-->
+    <dimen name="error_text_margin">@dimen/size2x</dimen>
+</resources>
